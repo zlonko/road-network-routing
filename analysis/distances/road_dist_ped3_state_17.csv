@@ -1,0 +1,10 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_3,DISTANCE_ROAD,DISTANCE_TIME
+0,52,52,Ann & Robert H. Lurie Childen's Hospital of Chicago,17,41.896755,-87.62236,University of Illinois Hospital Health Sciences System- Chicago,41.869245,-87.670663,5.040898306,6312.055,33
+1,56,56,Advocate Children's Hospital - Oak Lawn,17,41.723169,-87.731996,Gottlieb Community Health Services Corporation - MacNeal Hospital,41.830484999999996,-87.791175,12.8950166,16770.940000000002,78
+2,64,64,Alexian Brothers Women & Children's Hospital,17,42.05247,-88.14443,Northwestern Medicine-Central DuPage Hospital,41.8732,-88.15727,19.94040792,21512.486999999997,68
+3,67,67,OSF Healthcare Children's Hospital of Illinois,17,40.702168,-89.5912,Carle Foundation Hospital,40.11695,-88.21506,133.6659196,144742.37700000012,87
+4,75,75,Advocate Children's Hospital - Park Ridge,17,42.038222,-87.848316,Northwest Community Hospital,42.06733,-87.99133,12.2725584,13160.644,47
+5,83,83,Comer Children's Hospital at University of Chicago Medical Center,17,41.790287,-87.604935,Rush University Medical Center,41.87449,-87.66819,10.72740531,13777.901000000002,46
+6,84,84,HSHS St Johns Children's Hospital,17,39.80728,-89.64558000000001,Carle Foundation Hospital,40.11695,-88.21506,126.9676848,135946.49300000002,97
+7,145,145,Rush University Children's Hospital,17,41.87514,-87.668564,Northwestern Memorial Hospital,41.89495,-87.62223,4.430673864,5391.472,24
+8,181,181,Children's Hospital of the Univerisyt of Illinois,17,41.869205,-87.670715,Northwestern Memorial Hospital,41.89495,-87.62223,4.936890015,6279.007000000002,30

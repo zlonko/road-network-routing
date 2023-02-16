@@ -1,0 +1,5 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_1,DISTANCE_ROAD,DISTANCE_TIME
+0,16,16,Children's Hospital of Georgia,13,33.472088,-81.98926999999999,Augusta University Medical Center,33.47077,-81.99065,0.194484065,306.542,1
+1,54,54,Dwaine and Cynthia Willett Children's Hospital of Savannah,13,32.032215,-81.091675,Medical University of South Carolina Medical Center,32.78565,-79.94676,136.3101071,173789.60800000004,148
+2,114,114,Beverly Knight Olson Children's Hospital,13,32.833076,-83.63632,Grady Memorial Hospital,33.752320000000005,-84.38242,123.38406640000001,131936.34300000002,94
+3,164,164,Children's Healthcare of Atlanta,13,33.82971,-84.32975,Emory University Hospital,33.792320000000004,-84.32186,4.211108953,5004.313,23

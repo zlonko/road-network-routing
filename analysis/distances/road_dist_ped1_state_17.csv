@@ -1,0 +1,10 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_1,DISTANCE_ROAD,DISTANCE_TIME
+0,52,52,Ann & Robert H. Lurie Childen's Hospital of Chicago,17,41.896755,-87.62236,Northwestern Memorial Hospital,41.89495,-87.62223,0.200773676,519.014,4
+1,56,56,Advocate Children's Hospital - Oak Lawn,17,41.723169,-87.731996,Advocate Christ Hospital and Medical Center,41.721635,-87.73243199999999,0.174197926,505.091,2
+2,64,64,Alexian Brothers Women & Children's Hospital,17,42.05247,-88.14443,AMITA Health Alexian Brothers Medical Center,42.0044,-88.01475,11.99336884,14712.898000000001,25
+3,67,67,OSF Healthcare Children's Hospital of Illinois,17,40.702168,-89.5912,OSF Healthcare Saint Francis Medical Center,40.7025,-89.58959,0.140971601,990.6800000000001,11
+4,75,75,Advocate Children's Hospital - Park Ridge,17,42.038222,-87.848316,Advocate Lutheran General Hospital,42.03934,-87.84874,0.129048026,0,0
+5,83,83,Comer Children's Hospital at University of Chicago Medical Center,17,41.790287,-87.604935,University of Chicago Hospitals and Health Systems,41.77693,-87.609505,1.5314209019999998,2218.6340000000005,14
+6,84,84,HSHS St Johns Children's Hospital,17,39.80728,-89.64558000000001,Memorial Medical Center,39.80873,-89.65471,0.798229156,960.2439999999998,7
+7,145,145,Rush University Children's Hospital,17,41.87514,-87.668564,Rush University Medical Center,41.87449,-87.66819,0.078588655,414.741,3
+8,181,181,Children's Hospital of the Univerisyt of Illinois,17,41.869205,-87.670715,University of Illinois Hospital Health Sciences System- Chicago,41.869245,-87.670663,0.006194809,0,0

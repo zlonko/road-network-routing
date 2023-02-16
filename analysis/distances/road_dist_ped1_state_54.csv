@@ -1,0 +1,3 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_1,DISTANCE_ROAD,DISTANCE_TIME
+0,131,131,West Virginia University Children's Hospital,54,39.653323,-79.957894,West Virginia University Hospital,39.653335999999996,-79.957916,0.002376623,0,0
+1,146,146,Hoops Family Children's Hospital,54,38.408978000000005,-82.4282,St. Mary's Medical Center,38.43254,-82.40105,3.530188768,4872.161,33

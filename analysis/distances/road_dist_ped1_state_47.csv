@@ -1,0 +1,8 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_1,DISTANCE_ROAD,DISTANCE_TIME
+0,9,9,Le Bonheur Children's Hospital,47,35.143440000000005,-90.0317,Methodist University Hospital,35.1364,-90.01928000000001,1.3751883109999998,1694.561,14
+1,27,27,Spence and Becky Wilson Baptist Childlren's Hospital,47,35.127824,-89.854591,Saint Francis Hospital-Memphis,35.09751,-89.86437,3.479264732,5154.275000000001,31
+2,71,71,Monroe Carell Jr. Children's Hospital at Vanderbilt,47,36.139005,-86.802607,Vanderbilt University Medical Center,36.14,-86.8016,0.142843614,215.169,2
+3,115,115,St. Jude Children's Research Hospital,47,35.154635,-90.042849,Methodist University Hospital,35.1364,-90.01928000000001,2.95052237,4177.105,21
+4,133,133,Children's Hospital at Erlanger,47,35.049877,-85.29069,Erlanger Health System,35.04872,-85.29043,0.13053267,328.071,2
+5,172,172,Niswonger Children's Hospital,47,36.308665999999995,-82.38653599999999,Johnson City Medical Center,36.3075,-82.38556,0.156281971,205.609,3
+6,185,185,East Tennessee Children's Hospital,47,35.956547,-83.93782,Fort Sanders Regional Medical Center,35.9572,-83.93717,0.09321093400000001,0,0

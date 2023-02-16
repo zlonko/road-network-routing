@@ -1,0 +1,10 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_2,DISTANCE_ROAD,DISTANCE_TIME
+0,3,3,St. Joseph's Children's Hospital,34,40.902527,-74.166824,Valley Hospital,40.98364,-74.10054000000001,10.59694775,12013.676,59
+1,28,28,The Bristol-Myrs Squibb Children's Hospital,34,40.495073,-74.451888,Saint Barnabas Medical Center,40.76218715,-74.3036489,32.20467105,37957.99099999997,91
+2,35,35,Joseph M. Sanzari Children's Hospital Hackensack University Medical Center,34,40.88453,-74.05768,Valley Hospital,40.98364,-74.10054000000001,11.58321202,13402.966999999999,59
+3,36,36,K. Hovnanian Children's Hospital,34,40.20919,-74.04257,JFK Medical Center,40.55625,-74.35119,46.60440378,54366.444,70
+4,111,111,The Children's Hospital at Saint Peter's University Hospital,34,40.501846,-74.45922,Saint Barnabas Medical Center,40.76218715,-74.3036489,31.76501126,37411.68399999999,90
+5,130,130,The Children's Regional Hospital at Cooper,34,39.940807,-75.115746,Thomas Jefferson University Hospitals,39.94982,-75.15867,3.80242257,5517.239,32
+6,143,143,The Children's Hospital at Monmouth Medical Center,34,40.295359999999995,-73.98363499999999,Maimonides Medical Center,40.639359999999996,-73.99866999999999,38.22028351,72085.63099999996,131
+7,150,150,Saint Barnabas Children's Center Saint Barnabas Medical Center,34,40.765194,-74.301834,St. Joseph's Regional Medical Center,40.902719,-74.165087,19.13833377,21586.836000000014,71
+8,171,171,Goryeb Children's Hospital,34,40.788794,-74.465023,JFK Medical Center,40.55625,-74.35119,27.55872186,34632.53299999998,81

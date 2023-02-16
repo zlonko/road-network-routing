@@ -1,0 +1,6 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_1,DISTANCE_ROAD,DISTANCE_TIME
+0,5,5,Children's Hospitl of Richmond at VCU,51,37.540268,-77.432846,Virginia Commonwealth University Health System Authority,37.540289,-77.430789,0.181808332,207.864,2
+1,53,53,Bon Secours St. Mary's Hospital Children's Services,51,37.585026,-77.512596,Bon Secours St. Mary's Hospital of Richmond,37.58314,-77.51298,0.21205457600000002,778.389,4
+2,91,91,Inova Children's Hospital,51,38.858765000000005,-77.22603000000001,Inova Alexandria Hospital,38.82205,-77.10566999999999,11.21647306,13409.167,34
+3,112,112,Children's Hospital of the King's Daughters,51,36.861340000000006,-76.30162,Sentara Norfolk General Hospital,36.86268,-76.30354,0.226774703,502.9599999999999,2
+4,149,149,Carilion Clinic Children's Hospital,51,37.25206,-79.94169000000001,Moses H. Cone Memorial Hospital,36.091918,-79.785944,129.4932679,100302.42400000001,117

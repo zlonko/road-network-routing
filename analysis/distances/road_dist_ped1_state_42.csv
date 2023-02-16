@@ -1,0 +1,7 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_1,DISTANCE_ROAD,DISTANCE_TIME
+0,0,0,Penn State Children's Hospital,42,40.264298,-76.673751,Penn State Milton S. Hershey Medical Center,40.26441,-76.67401,0.02529924,0,0
+1,18,18,Lehigh Valley Reilly Children's Hopital,42,40.567081,-75.523948,Lehigh Valley Hospital - Cedar Crest,40.567097,-75.523774,0.01484162,0,0
+2,26,26,Janet Weis Children's Hospital at Geisinger,42,40.969691999999995,-76.60424,Geisinger Medical Center,40.968461,-76.604811,0.144909677,189.06799999999998,2
+3,29,29,Children's Hospital of Philadelphia,42,39.9481,-75.19318,Hospital of the University of Pennsylvania,39.950567,-75.193751,0.278232327,816.0749999999999,5
+4,129,129,St. Christopher's Hospital for Children,42,40.006840000000004,-75.13117,Temple University Hospital,40.00466,-75.15205999999999,1.800076852,1884.7499999999995,21
+5,132,132,UPMC Children's Hospital of Pittsburgh,42,40.46656,-79.95374,UPMC Presbyterian,40.44178,-79.9612,2.823479568,3735.7869999999994,24

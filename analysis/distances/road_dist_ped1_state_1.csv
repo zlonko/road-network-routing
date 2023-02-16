@@ -1,0 +1,3 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_1,DISTANCE_ROAD,DISTANCE_TIME
+0,126,126,University of South Alabama Children's and Women's Hospital,1,30.696112,-88.076904,USA Health University Hospital,30.707359999999998,-88.09825,2.395170414,3393.725,20
+1,167,167,Children's of Alabama,1,33.503292,-86.805305,University of Alabama at Birmingham,33.506370000000004,-86.803298,0.389005141,440.087,2

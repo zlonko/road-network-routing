@@ -1,0 +1,15 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_2,DISTANCE_ROAD,DISTANCE_TIME
+0,20,20,The Children's Hospital at Montefiore,36,40.87988,-73.8789,Mount Sinai Hospital,40.79038,-73.95339,11.75832968,12753.783999999998,53
+1,21,21,Bernard Millie Duker Children's Hospital,36,42.652603000000006,-72.77507,UMass Memorial Medical Center √¢‚Ç¨‚Äú University Campus,42.27625,-71.76208000000001,93.21373764,119792.59599999989,124
+2,40,40,Upstate Golisano Children's Hospital,36,43.042282,-76.140392,Crouse Hospital,43.041309999999996,-76.13793000000001,0.22783281100000002,456.911,3
+3,48,48,Hassenfeld Children's Hospital at NYU Langone,36,40.743626,-73.97315,Mount Sinai Hospital,40.79038,-73.95339,5.45346706,6464.507000000001,22
+4,55,55,Maimonides Infants and Children's Hospital of Brooklyn,36,40.639526000000004,-73.9982,NYU Langone Hospital - Brooklyn,40.64662,-74.02058000000001,2.050433553,2585.84,18
+5,80,80,Cohen Children's Medical Center,36,40.752769,-73.708878,Montefiore Medical Center - Henry and Lucy Moses Division,40.880331,-73.880149,20.23527486,24388.40000000002,72
+6,89,89,Maria Fareri Children's Hospital at Westchester Medical Center,36,41.087883000000005,-73.80399,Valley Hospital,40.98364,-74.10054000000001,27.49294335,39180.98999999999,73
+7,90,90,The Children's Medical Center at NYU Winthrop Hospital,36,40.741695,-73.64331,Brookdale Hospital Medical Center,40.65453,-73.91275999999999,24.74504807,26424.444999999992,105
+8,117,117,Golisano Children's Hospital at the University of Rochester Medical Center,36,43.121896,-77.623377,Rochester General Hospital,43.19242,-77.58659,8.386774144,9370.508000000005,44
+9,125,125,The Mount Sinai Kravis Children's Hospital,36,40.79013,-73.95413,NYU Langone Hospitals,40.7423,-73.9743,5.577824081,6323.569000000001,35
+10,174,174,New York Presbyterian Komansky Chilldren's Hospital,36,40.764214,-73.955414,Mount Sinai Hospital,40.79038,-73.95339,2.91074312,3907.9759999999997,23
+11,175,175,New York Presbyterian Morgan Stanley Children's Hospital,36,40.839447,-73.940956,Montefiore Medical Center - Henry and Lucy Moses Division,40.880331,-73.880149,6.848205553,8428.349000000004,39
+12,177,177,John R. Oishei Children's Hospital,36,42.90057,-78.867165,Rochester General Hospital,43.19242,-77.58659,109.26063130000001,113699.54699999999,87
+13,187,187,Stony Brook Children's Hospital,36,40.91326,-73.116516,Good Samaritan Hospital Medical Center,40.69321,-73.29415999999999,28.66809151,34337.92899999998,97

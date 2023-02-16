@@ -1,0 +1,3 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_3,DISTANCE_ROAD,DISTANCE_TIME
+0,72,72,Children's Hospital & Medical Center,31,41.259686,-96.04045,The University of Kansas Hospital,39.05615,-94.61062,273.311974,303487.436,195
+1,105,105,Boys Town National Research Hospital,31,41.264412,-95.95661,The University of Kansas Hospital,39.05615,-94.61062,270.6789807,298076.39699999994,174

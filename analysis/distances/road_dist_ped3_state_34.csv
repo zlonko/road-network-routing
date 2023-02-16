@@ -1,0 +1,10 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_3,DISTANCE_ROAD,DISTANCE_TIME
+0,3,3,St. Joseph's Children's Hospital,34,40.902527,-74.166824,Saint Barnabas Medical Center,40.76218715,-74.3036489,19.39276513,21839.82800000001,73
+1,28,28,The Bristol-Myrs Squibb Children's Hospital,34,40.495073,-74.451888,Capital Health Regional Medical Center,40.23608,-74.75259,38.46298505,38935.42499999999,69
+2,35,35,Joseph M. Sanzari Children's Hospital Hackensack University Medical Center,34,40.88453,-74.05768,Mount Sinai Hospital,40.79038,-73.95339,13.663279000000001,18732.50500000001,57
+3,36,36,K. Hovnanian Children's Hospital,34,40.20919,-74.04257,Maimonides Medical Center,40.639359999999996,-73.99866999999999,47.9123377,77270.634,107
+4,111,111,The Children's Hospital at Saint Peter's University Hospital,34,40.501846,-74.45922,Capital Health Regional Medical Center,40.23608,-74.75259,38.6230615,39809.098999999995,68
+5,130,130,The Children's Regional Hospital at Cooper,34,39.940807,-75.115746,Hospital of the University of Pennsylvania,39.950567,-75.193751,6.753929427999999,8661.150999999996,31
+6,143,143,The Children's Hospital at Monmouth Medical Center,34,40.295359999999995,-73.98363499999999,NYU Langone Hospital - Brooklyn,40.64662,-74.02058000000001,39.13083854,72606.77499999992,128
+7,150,150,Saint Barnabas Children's Center Saint Barnabas Medical Center,34,40.765194,-74.301834,JFK Medical Center,40.55625,-74.35119,23.57508889,28565.177,83
+8,171,171,Goryeb Children's Hospital,34,40.788794,-74.465023,St. Joseph's Regional Medical Center,40.902719,-74.165087,28.28144842,33421.220000000016,52

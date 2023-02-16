@@ -1,0 +1,14 @@
+Original Stack Overflow post:
+https://stackoverflow.com/questions/55162077/how-to-get-the-driving-distance-between-two-geographical-coordinates-using-pytho
+
+Python/Jupyter Notebook demoing OSMNx features:
+https://github.com/gboeing/osmnx-examples/blob/master/notebooks/00-osmnx-features-demo.ipynb
+
+OSMNx features as an article:
+https://geoffboeing.com/2016/11/osmnx-python-street-networks/
+
+Installing NetworkX library for calculating distances:
+https://networkx.github.io/documentation/stable/install.html
+
+OSMNx documentation: 
+https://osmnx.readthedocs.io/en/stable/

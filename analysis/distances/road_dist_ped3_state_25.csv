@@ -1,0 +1,6 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_3,DISTANCE_ROAD,DISTANCE_TIME
+0,31,31,Floating Hospital for Children at Tufts Medical Center,25,42.349948,-71.063829,Boston Medical Center Menino Pavilion,42.334834,-71.073608,1.862244875,1952.6870000000004,18
+1,34,34,Boston Children's Hospital,25,42.337776,-71.10519000000001,Boston Medical Center Menino Pavilion,42.334834,-71.073608,2.62320563,3056.978,24
+2,92,92,Baystate Children's Hospital,25,42.118990000000004,-72.60416,Yale New Haven Hospital (York St. Campus),41.30429,-72.93515,94.58657452,99713.95399999995,122
+3,148,148,Umass Memorial Children's Medical Center,25,42.279568,-71.75844000000001,Beth Israel Deaconess Hospital √¢‚Ç¨‚Äú West Campus,42.338035999999995,-71.108993,53.93853205,55809.59100000004,81
+4,159,159,MassGeneral Hospial for Children,25,42.36244,-71.06983000000001,Boston Medical Center Menino Pavilion,42.334834,-71.073608,3.0822363010000005,3956.2930000000006,23

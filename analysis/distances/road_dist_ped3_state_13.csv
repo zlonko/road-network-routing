@@ -1,0 +1,5 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_3,DISTANCE_ROAD,DISTANCE_TIME
+0,16,16,Children's Hospital of Georgia,13,33.472088,-81.98926999999999,Greenville Memorial Hospital,34.819024,-82.41299000000001,154.4343802,171303.31099999987,164
+1,54,54,Dwaine and Cynthia Willett Children's Hospital of Savannah,13,32.032215,-81.091675,Augusta University Medical Center,33.47077,-81.99065,180.4115754,199515.47399999996,195
+2,114,114,Beverly Knight Olson Children's Hospital,13,32.833076,-83.63632,WellStar Kennestone Regional Medical Center,33.969758,-84.55109,152.1026139,162554.1350000001,139
+3,164,164,Children's Healthcare of Atlanta,13,33.82971,-84.32975,WellStar Kennestone Regional Medical Center,33.969758,-84.55109,25.69886721,30051.00899999999,57

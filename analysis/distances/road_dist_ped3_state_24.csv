@@ -1,0 +1,3 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_3,DISTANCE_ROAD,DISTANCE_TIME
+0,43,43,University of Maryland Children's Hospital,24,39.288456,-76.62366,Johns Hopkins Bayview Medical Center,39.28978,-76.54689,6.624790421,6928.172,37
+1,186,186,Johns Hopkins Children's Center,24,39.295277,-76.59097,Johns Hopkins Bayview Medical Center,39.28978,-76.54689,3.851378268,4328.759000000001,41

@@ -1,0 +1,7 @@
+,index,GEOID,USPS,Hospital,State,ORIG_LAT,ORIG_LONG,THROMB,DEST_LAT,DEST_LONG,AERIAL_3,DISTANCE_ROAD,DISTANCE_TIME
+0,23,23,MN,Mayo Eugenio Litta Children's Hospital,27,44.021342,-92.48219499999999,Regions Hospital,44.955940000000005,-93.09423000000001,114.69804750000002,123868.69999999998,134
+1,33,33,MN,Children's Hospitals and Clinics of Minnesota - St. Paul,27,44.942184000000005,-93.10791,"University of Minnesota Medical Center, Fairview",44.97128,-93.23061,10.20745998,11461.750000000004,29
+2,78,78,MN,Children's Hospitals and Clinics of Minnesota,27,44.956806,-93.26255,"University of Minnesota Medical Center, Fairview",44.97128,-93.23061,2.989551548,4654.3550000000005,23
+3,79,79,MN,University of Minnesota Masonic Children's Hospital,27,44.965992,-93.2373,Abbott Northwestern Hospital,44.95397,-93.26171,2.344009492,3412.0919999999987,25
+4,98,98,MN,Hennepin County Medical Center,27,44.972786,-93.26274000000001,"University of Minnesota Medical Center, Fairview",44.97128,-93.23061,2.54010058,3307.7980000000007,14
+5,201,201,MN,St. Mary's Children's Hospital,27,46.7929,-92.09634399999999,North Memorial Health Hospital,45.01381,-93.32168,219.40988560000002,244772.0580000002,154

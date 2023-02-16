@@ -1,0 +1,15 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_3,DISTANCE_ROAD,DISTANCE_TIME
+0,20,20,The Children's Hospital at Montefiore,36,40.87988,-73.8789,NYU Langone Hospitals,40.7423,-73.9743,17.2690049,18199.80199999999,62
+1,21,21,Bernard Millie Duker Children's Hospital,36,42.652603000000006,-72.77507,Hartford Hospital,41.75437,-72.67905,100.0878569,117360.22299999988,126
+2,40,40,Upstate Golisano Children's Hospital,36,43.042282,-76.140392,Rochester General Hospital,43.19242,-77.58659,118.87413219999999,130595.17099999999,81
+3,48,48,Hassenfeld Children's Hospital at NYU Langone,36,40.743626,-73.97315,Brookdale Hospital Medical Center,40.65453,-73.91275999999999,11.132855900000001,14230.944999999996,71
+4,55,55,Maimonides Infants and Children's Hospital of Brooklyn,36,40.639526000000004,-73.9982,Brookdale Hospital Medical Center,40.65453,-73.91275999999999,7.41630395,7822.151999999999,68
+5,80,80,Cohen Children's Medical Center,36,40.752769,-73.708878,Brookdale Hospital Medical Center,40.65453,-73.91275999999999,20.39345894,22431.891999999993,77
+6,89,89,Maria Fareri Children's Hospital at Westchester Medical Center,36,41.087883000000005,-73.80399,Mount Sinai Hospital,40.79038,-73.95339,35.35297885,37544.13200000002,72
+7,90,90,The Children's Medical Center at NYU Winthrop Hospital,36,40.741695,-73.64331,Montefiore Medical Center - Henry and Lucy Moses Division,40.880331,-73.880149,25.22607393,30821.180000000022,96
+8,117,117,Golisano Children's Hospital at the University of Rochester Medical Center,36,43.121896,-77.623377,Upstate Medical University,43.04215,-76.14025,121.09751609999998,133523.58499999993,78
+9,125,125,The Mount Sinai Kravis Children's Hospital,36,40.79013,-73.95413,Montefiore Medical Center - Henry and Lucy Moses Division,40.880331,-73.880149,11.80144424,12889.093999999994,50
+10,174,174,New York Presbyterian Komansky Chilldren's Hospital,36,40.764214,-73.955414,Brookdale Hospital Medical Center,40.65453,-73.91275999999999,12.7023467,15841.451,82
+11,175,175,New York Presbyterian Morgan Stanley Children's Hospital,36,40.839447,-73.940956,NYU Langone Hospitals,40.7423,-73.9743,11.14918994,12569.380999999994,53
+12,177,177,John R. Oishei Children's Hospital,36,42.90057,-78.867165,UPMC Hamot,42.1339,-80.08728,131.5494545,143615.59600000005,91
+13,187,187,Stony Brook Children's Hospital,36,40.91326,-73.116516,Yale New Haven Hospital (York St. Campus),41.30429,-72.93515,46.02079815,173313.07600000023,260

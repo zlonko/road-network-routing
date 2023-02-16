@@ -1,0 +1,15 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_1,DISTANCE_ROAD,DISTANCE_TIME
+0,20,20,The Children's Hospital at Montefiore,36,40.87988,-73.8789,Montefiore Medical Center - Henry and Lucy Moses Division,40.880331,-73.880149,0.11658159,82.134,1
+1,21,21,Bernard Millie Duker Children's Hospital,36,42.652603000000006,-72.77507,Albany Medical Center,42.65295,-73.77582,82.05963915,110400.78100000012,112
+2,40,40,Upstate Golisano Children's Hospital,36,43.042282,-76.140392,Upstate Medical University,43.04215,-76.14025,0.01867963,0,0
+3,48,48,Hassenfeld Children's Hospital at NYU Langone,36,40.743626,-73.97315,NYU Langone Hospitals,40.7423,-73.9743,0.176400494,542.098,4
+4,55,55,Maimonides Infants and Children's Hospital of Brooklyn,36,40.639526000000004,-73.9982,Maimonides Medical Center,40.639359999999996,-73.99866999999999,0.043823762999999995,79.268,1
+5,80,80,Cohen Children's Medical Center,36,40.752769,-73.708878,North Shore University Hospital,40.77774,-73.70192,2.834562453,3957.9710000000005,21
+6,89,89,Maria Fareri Children's Hospital at Westchester Medical Center,36,41.087883000000005,-73.80399,Montefiore Medical Center - Henry and Lucy Moses Division,40.880331,-73.880149,23.923885000000002,25396.102999999996,39
+7,90,90,The Children's Medical Center at NYU Winthrop Hospital,36,40.741695,-73.64331,North Shore University Hospital,40.77774,-73.70192,6.365142961,8661.314999999999,41
+8,117,117,Golisano Children's Hospital at the University of Rochester Medical Center,36,43.121896,-77.623377,University of Rochester-Strong Memorial,43.12307,-77.62349,0.13074945300000002,281.40400000000005,4
+9,125,125,The Mount Sinai Kravis Children's Hospital,36,40.79013,-73.95413,Mount Sinai Hospital,40.79038,-73.95339,0.068349319,548.3999999999999,4
+10,174,174,New York Presbyterian Komansky Chilldren's Hospital,36,40.764214,-73.955414,NYU Langone Hospitals,40.7423,-73.9743,2.909594495,3476.3810000000003,22
+11,175,175,New York Presbyterian Morgan Stanley Children's Hospital,36,40.839447,-73.940956,Mount Sinai Hospital,40.79038,-73.95339,5.548973393,6069.831000000002,35
+12,177,177,John R. Oishei Children's Hospital,36,42.90057,-78.867165,University of Rochester-Strong Memorial,43.12307,-77.62349,104.35944359999999,107860.02100000004,75
+13,187,187,Stony Brook Children's Hospital,36,40.91326,-73.116516,SUNY Stony Brook/University Hospital,40.90837,-73.11473000000001,0.563505661,2168.9030000000002,12

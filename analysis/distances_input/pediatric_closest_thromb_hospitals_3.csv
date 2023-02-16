@@ -1,0 +1,203 @@
+﻿GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_3
+0,Penn State Children's Hospital,42,40.264298,-76.673751,Geisinger Medical Center,40.968461,-76.604811,78.41214415
+1,Sanford Children's Hospital - Fargo,38,46.884666,-96.787796,CentraCare Health - St. Cloud Hospital,45.574495,-94.169613,248.9792171
+2,St. Joseph's Children's Hospital of Tampa,12,27.983532,-82.49008,Tampa General Hospital,27.93753,-82.45929,5.930204053
+3,St. Joseph's Children's Hospital,34,40.902527,-74.166824,Saint Barnabas Medical Center,40.76218715,-74.3036489,19.39276513
+4,Kaiser Permanente - Oakland Medical Centr,6,37.823994,-122.25784,Mills-Peninsula,37.592045,-122.382427,27.99032507
+5,Children's Hospitl of Richmond at VCU,51,37.540268,-77.432846,Johnston-Willis Hospital,37.51074,-77.5953,14.7293924
+6,Children's Hospital of Wisconsin,55,43.043343,-88.026276,Northwest Community Hospital,42.06733,-87.99133,108.4574832
+7,Kaiser Permanente Pediatric Care Center,6,34.072468,-117.43566,Pomona Valley Hospital Medical Center,34.07709,-117.75062,29.07649899
+8,Baptist Children's Hospital,12,25.687788,-80.340675,Jackson Memorial Hospital,25.79112,-80.21207,17.24983435
+9,Le Bonheur Children's Hospital,47,35.14344,-90.0317,UAMS Medical Center,34.74435234,-92.384465,219.4330906
+10,Seattle Children's,53,47.66447,-122.28317,Harborview Medical Center,47.60356,-122.32473,7.457699213
+11,Beacon Children's Hospital,18,41.684013,-86.25052,Ascension Borgess Hospital,42.30815,-85.56068,89.8485789
+12,Children's of Mississippi,28,32.32881,-90.17562,Ochsner Medical Center,29.96255,-90.14479,262.3685549
+13,Valley Children's Healthcare,6,36.88444,-119.800579,Sierra Vista Hospital,35.291976,-120.665608,193.110534
+14,Children's Hospital Colorado,8,39.740765,-104.83503,Lutheran Medical Center,39.76783,-105.08892,21.96467696
+15,The University of Vermont Children's Hospital,50,44.48071,-73.19685,UMass Memorial Medical Center √¢‚Ç¨‚Äú University Campus,42.27625,-71.76208,271.1022173
+16,Children's Hospital of Georgia,13,33.472088,-81.98927,Greenville Memorial Hospital,34.819024,-82.41299,154.4343802
+17,Ochsner Hospital for Children,22,29.962742,-90.144005,East Jefferson General Hospital,30.01434,-90.18152,6.769099047
+18,Lehigh Valley Reilly Children's Hopital,42,40.567081,-75.523948,Abington Hospital,40.118897,-75.119863,60.46061604
+19,Riley Hospital for Children at Indiana University Health,18,39.77726,-86.18137,Good Samaritan Hospital,39.14003,-84.5206,159.4802099
+20,The Children's Hospital at Montefiore,36,40.87988,-73.8789,NYU Langone Hospitals,40.7423,-73.9743,17.2690049
+21,Bernard Millie Duker Children's Hospital,36,42.652603,-72.77507,Hartford Hospital,41.75437,-72.67905,100.0878569
+22,Duke Children's Hospital Health Center,37,36.008205,-78.937645,Rex Hospital,35.818506,-78.704281,29.77798548
+23,Mayo Clinic Children's Center,27,44.022635,-92.467013,Regions Hospital,44.95594,-93.09423,115.0860617
+24,UCSF Benioff Children's Hospital Oakland,6,37.83731,-122.2682,Mills-Peninsula,37.592045,-122.382427,29.02561117
+25,Primary Children's Hospital,49,40.770859,-111.839687,St. Luke's Regional Medical Ceter - Boise,43.612338,-116.191892,478.2656501
+26,Janet Weis Children's Hospital at Geisinger,42,40.969692,-76.60424,Penn State Milton S. Hershey Medical Center,40.26441,-76.67401,78.54131422
+27,Spence and Becky Wilson Baptist Childlren's Hospital,47,35.127824,-89.854591,UAMS Medical Center,34.74435234,-92.384465,235.0025136
+28,The Bristol-Myrs Squibb Children's Hospital,34,40.495073,-74.451888,Capital Health Regional Medical Center,40.23608,-74.75259,38.46298505
+29,Children's Hospital of Philadelphia,42,39.9481,-75.19318,Cooper University Hospital,39.94152,-75.1168,6.568389332
+30,Kaiser Foundation Hospital - Santa Clara,6,37.33778,-121.99581,Regional Medical Center of San Jose,37.36271,-121.84786,13.3974415
+31,Floating Hospital for Children at Tufts Medical Center,25,42.349948,-71.063829,Boston Medical Center Menino Pavilion,42.334834,-71.073608,1.862244875
+32,Doernbecher Children's Hospital at Oregon Health,41,45.499268,-122.686295,PeaceHealth Southwest Medical Center,45.62459,-122.58145,16.15577313
+33,Children's Hospitals and Clinics of Minnesota - St. Paul,27,44.942184,-93.10791,"University of Minnesota Medical Center, Fairview",44.97128,-93.23061,10.20745998
+34,Boston Children's Hospital,25,42.337776,-71.10519,Boston Medical Center Menino Pavilion,42.334834,-71.073608,2.62320563
+35,Joseph M. Sanzari Children's Hospital Hackensack University Medical Center,34,40.88453,-74.05768,Mount Sinai Hospital,40.79038,-73.95339,13.663279
+36,K. Hovnanian Children's Hospital,34,40.20919,-74.04257,Maimonides Medical Center,40.63936,-73.99867,47.9123377
+37,Arkansas Children's Hospital,5,34.74345,-92.291466,Saint Francis Hospital-Memphis,35.09751,-89.86437,225.2245637
+38,University Health System Children's Health,48,29.50904,-98.574486,University Hospital,29.50662,-98.57792,0.427567979
+39,Blank Children's Hospital,19,41.589855,-93.63651,CHI Health Immanuel,41.32185,-96.01987,201.3419508
+40,Upstate Golisano Children's Hospital,36,43.042282,-76.140392,Rochester General Hospital,43.19242,-77.58659,118.8741322
+41,Bronson Methodist Hospital,26,42.286137,-85.58134,Metro Health University of Michigan Health,42.8575,-85.71897,64.46757186
+42,Children's Health,48,32.808856,-96.838099,Methodist Dallas Medical Center,32.76121,-96.82487,5.427354588
+43,University of Maryland Children's Hospital,24,39.288456,-76.62366,Johns Hopkins Bayview Medical Center,39.28978,-76.54689,6.624790421
+44,North Carolina Children's Hospital,37,35.903027,-79.05028,Rex Hospital,35.818506,-78.704281,32.62807628
+45,MUSC Children's Hospital,45,32.785675,-79.946686,Grand Strand Medical Center,33.75833,-78.81961,150.5409237
+46,Medical City Children's Hospital,48,32.909378,-96.77132,Baylor Scott & White Medial Center - Plano,33.01419,-96.79108,11.76993892
+47,Nicklaus Children's Hospital,12,25.741411,-80.29603,Jackson Memorial Hospital,25.79112,-80.21207,10.06302532
+48,Hassenfeld Children's Hospital at NYU Langone,36,40.743626,-73.97315,Brookdale Hospital Medical Center,40.65453,-73.91276,11.1328559
+49,Children's Mercy Hospitals and Clinics,29,39.081947,-94.578285,Research Medical Center,39.00716,-94.55977,8.455887642
+50,Nemours Children's Specialty Care Jacksonville,12,30.31212,-81.6633,UF Health Jacksonville,30.3478,-81.66435,3.956702843
+51,Golisano Children's Hospital of Southwest Florida,12,26.50363,-81.91398,Physicians Regional Medical Center - Pine Ridge,26.21413,-81.73196,36.86260874
+52,Ann & Robert H. Lurie Childen's Hospital of Chicago,17,41.896755,-87.62236,University of Illinois Hospital Health Sciences System- Chicago,41.869245,-87.670663,5.040898306
+53,Bon Secours St. Mary's Hospital Children's Services,51,37.585026,-77.512596,Johnston-Willis Hospital,37.51074,-77.5953,11.01776728
+54,Dwaine and Cynthia Willett Children's Hospital of Savannah,13,32.032215,-81.091675,Augusta University Medical Center,33.47077,-81.99065,180.4115754
+55,Maimonides Infants and Children's Hospital of Brooklyn,36,40.639526,-73.9982,Brookdale Hospital Medical Center,40.65453,-73.91276,7.41630395
+56,Advocate Children's Hospital - Oak Lawn,17,41.723169,-87.731996,Gottlieb Community Health Services Corporation - MacNeal Hospital,41.830485,-87.791175,12.8950166
+57,Ascension St. John Children's Hospital,26,42.418995,-82.914986,William Beaumont Hospital,42.515721,-83.194093,25.34446788
+58,AdventHealth for Children,12,28.57411,-81.37118,Osceola Regional Medical Center,28.29946,-81.4101,30.67636393
+59,Our Lady of the Lake Children's Hospial,22,30.402043,-91.099353,Tulane University Hospital and Clinic,29.95983,-90.07649,110.0351085
+60,Children's Memorial Hermann Hospital,48,29.71507,-95.39662,Houston Methodist Hospital,29.71004,-95.40038,0.665769372
+61,Willis Knighton South and the Center for Womens and Childrens Health,22,32.402134,-93.79852,UT Health East Texas Tyler Regional Hospital,32.338618,-95.291677,140.6982343
+62,Randall Childrren's Hospital at Legacy Emanuel,41,45.542862,-122.66945,PeaceHealth Southwest Medical Center,45.62459,-122.58145,11.38751676
+63,The Salah Foundation Children's Hospital at Broward Health,12,26.101841,-80.14234,Memorial Regional Hospital,26.01965,-80.18006,9.857147849
+64,Alexian Brothers Women & Children's Hospital,17,42.05247,-88.14443,Northwestern Medicine-Central DuPage Hospital,41.8732,-88.15727,19.94040792
+65,Children's Hospital of Nevada,32,36.15894,-115.16743,Loma Linda University Medical Center,34.04948,-117.26366,302.1324375
+66,Kaiser Permanente Pediatric Care Center Downey,6,33.91706,-118.12907,Los Alamitos Medical Center,33.80439,-118.06662,13.76874703
+67,OSF Healthcare Children's Hospital of Illinois,17,40.702168,-89.5912,Carle Foundation Hospital,40.11695,-88.21506,133.6659196
+68,Cone Health Children's Services,37,36.091095,-79.788795,Novant Health Forsyth Medical Center,36.07546,-80.29654,45.76482395
+69,The Children's Hospital at Saint Francis,40,36.075058,-95.922134,Hillcrest Medical Center,36.14687,-95.9684,8.991501589
+70,UCLA Mattel Childrens Hospital,6,34.06592,-118.44521,Cedars-Sinai Health System,34.076055,-118.377725,6.330025917
+71,Monroe Carell Jr. Children's Hospital at Vanderbilt,47,36.139005,-86.802607,TriStar Skyline Medical Center,36.24598,-86.74965,12.79022681
+72,Children's Hospital & Medical Center,31,41.259686,-96.04045,The University of Kansas Hospital,39.05615,-94.61062,273.311974
+73,Covenant Children's,48,33.5741,-101.90108,John Peter Smith Hospital,32.72712,-97.32696,436.9132907
+74,Wolfson Children's Hospital,12,30.316278,-81.66424,UF Health Jacksonville,30.3478,-81.66435,3.494483691
+75,Advocate Children's Hospital - Park Ridge,17,42.038222,-87.848316,Northwest Community Hospital,42.06733,-87.99133,12.2725584
+76,Beaumont Children's Hospital,26,42.517754,-83.19112,Henry Ford West Bloomfield Hospital,42.53785,-83.40718,17.89185185
+77,Children's Hospital of Los Angeles,6,34.098152,-118.29069,Providence Health System - Southern California,34.155305,-118.328075,7.216981723
+78,Children's Hospitals and Clinics of Minnesota,27,44.956806,-93.26255,"University of Minnesota Medical Center, Fairview",44.97128,-93.23061,2.989551548
+79,University of Minnesota Masonic Children's Hospital,27,44.965992,-93.2373,Abbott Northwestern Hospital,44.95397,-93.26171,2.344009492
+80,Cohen Children's Medical Center,36,40.752769,-73.708878,Brookdale Hospital Medical Center,40.65453,-73.91276,20.39345894
+81,Oklahoma Children's Hospital at OU Health,40,35.481821,-97.497542,Mercy Hospital Oklahoma City,35.60718,-97.59948,16.70017869
+82,Cottage Children's Medical Center,6,34.42935,-119.72318,Los Robles Hospital and Medical Center,34.207583,-118.883219,81.12812849
+83,Comer Children's Hospital at University of Chicago Medical Center,17,41.790287,-87.604935,Rush University Medical Center,41.87449,-87.66819,10.72740531
+84,HSHS St Johns Children's Hospital,17,39.80728,-89.64558,Carle Foundation Hospital,40.11695,-88.21506,126.9676848
+85,Children's National Hospital,11,38.926273,-77.012764,The Johns Hopkins Hospital,39.2973,-76.5933,54.88934024
+86,SSM Cardinal Glennon Children's Medical Center,29,38.621086,-90.23844,Mercy Hospital South,38.50744,-90.38037,17.66823687
+87,Lucile Packard Children's Hospital Stanford,6,37.43723,-122.17435,El Camino Hospital,37.36880981,-122.0817853,11.17281684
+88,Rady Children's Hospital San Diego,6,32.798603,-117.1508,Sharp Grossmont Hospital,32.780656,-117.007283,13.59039617
+89,Maria Fareri Children's Hospital at Westchester Medical Center,36,41.087883,-73.80399,Mount Sinai Hospital,40.79038,-73.95339,35.35297885
+90,The Children's Medical Center at NYU Winthrop Hospital,36,40.741695,-73.64331,Montefiore Medical Center - Henry and Lucy Moses Division,40.880331,-73.880149,25.22607393
+91,Inova Children's Hospital,51,38.858765,-77.22603,The Johns Hopkins Hospital,39.2973,-76.5933,73.26536969
+92,Baystate Children's Hospital,25,42.11899,-72.60416,Yale New Haven Hospital (York St. Campus),41.30429,-72.93515,94.58657452
+93,Phoenix Children's Hospital,4,33.480274,-112.040665,Banner - University Medical Center Tucson Campus,32.24243,-110.94733,171.2223947
+94,The Studer Family Children's Hospital at Ascension Sacred Heart,12,30.47732,-87.212031,Southeast Health,31.21588,-85.36301,194.9013203
+95,Kentucky Children's Hospital,21,38.03282,-84.506836,University of Louisville Medical Center,38.248187,-85.744585,111.1079905
+96,Children's Hospital of Michiga,26,42.35165,-83.054318,William Beaumont Hospital,42.515721,-83.194093,21.55099207
+97,Holtz Children's Hospital Jackson Memorial Hospital,12,25.790646,-80.21504,Mount Sinai Medical Center,25.81312,-80.13938,7.985623216
+98,Hennepin County Medical Center,27,44.972786,-93.26274,"University of Minnesota Medical Center, Fairview",44.97128,-93.23061,2.54010058
+99,CHOC Children's Hospital of Orange County,6,33.78033,-117.86507,Fountain Valley Regional Hospital and Medical Center,33.71504,-117.93592,9.774455618
+100,Community Regional Medical Center,6,36.741882,-119.78389,Regional Medical Center of San Jose,37.36271,-121.84786,196.0883778
+101,Hasbro Children's Hospital at Rhode Island Hospital,44,41.81175,-71.407074,Brigham & Women's Hospital,42.33611,-71.10748,63.30033838
+102,Marshfield Children's Hospital,55,44.676277,-90.180046,University of Wisconsin Hospitals and Clinics Authority,43.076545,-89.43396,187.5859634
+103,Children's Hospital New Orleans,22,29.917667,-90.126976,Tulane University Hospital and Clinic,29.95983,-90.07649,6.752958086
+104,Driscoll Children's Hospital,48,27.748377,-97.38436,Doctors Hospital at Renaissance,26.25384505,-98.2063599,184.6046731
+105,Boys Town National Research Hospital,31,41.264412,-95.95661,The University of Kansas Hospital,39.05615,-94.61062,270.6789807
+106,Levine Children's Hospital,37,35.204636,-80.8384,Novant Health Forsyth Medical Center,36.07546,-80.29654,108.3690943
+107,California Pacific Medical Center,6,37.78575,-122.42149,John Muir Medical Center -- Walnut Creek Campus,37.913214,-122.041935,36.2776322
+108,Mary Bridge Children's Hospital & Health Center,53,47.25993,-122.453514,Providence St. Peter's Hospital,47.05274,-122.84462,37.55296945
+109,Prisma Health Children's Hospital-Upstate,45,34.821472,-82.41376,Carolinas Medical Center,35.09197,-80.87117,144.052994
+110,Kaiser Permanente Pediatric Care Center,6,34.09815,-118.29542,Providence Health System - Southern California,34.155305,-118.328075,7.019152948
+111,The Children's Hospital at Saint Peter's University Hospital,34,40.501846,-74.45922,Capital Health Regional Medical Center,40.23608,-74.75259,38.6230615
+112,Children's Hospital of the King's Daughters,51,36.86134,-76.30162,Virginia Commonwealth University Health System Authority,37.540289,-77.430789,125.4041741
+113,Texas Children's Hospital,48,29.708263,-95.40344,Ben Taub Hospital,29.71074,-95.394447,0.912505492
+114,Beverly Knight Olson Children's Hospital,13,32.833076,-83.63632,WellStar Kennestone Regional Medical Center,33.969758,-84.55109,152.1026139
+115,St. Jude Children's Research Hospital,47,35.154635,-90.042849,UAMS Medical Center,34.74435234,-92.384465,218.6765861
+116,UH Rainbow Babies & Children's Hospital,39,41.506626,-81.608055,MetroHealth Medical Center,41.46195,-81.69706,8.937286889
+117,Golisano Children's Hospital at the University of Rochester Medical Center,36,43.121896,-77.623377,Upstate Medical University,43.04215,-76.14025,121.0975161
+118,Yale-New Haven Children's Hospital,9,41.30439,-72.934555,Hartford Hospital,41.75437,-72.67905,54.3357345
+119,El Paso Children's Hospital,48,31.770267,-106.43305,Banner - University Medical Center Tucson Campus,32.24243,-110.94733,429.7070475
+120,Tampa General Hospital Children's Medical Center,12,27.93754,-82.460393,St Josephs Hospital,27.98284,-82.49132,5.870444105
+121,Providence St. Vincent Medical Center,41,45.50894,-122.77164,PeaceHealth Southwest Medical Center,45.62459,-122.58145,19.63819924
+122,Peyton Manning Children's Hospital at St. Vincent,18,39.91203,-86.19653,Lutheran Hospital,41.039585,-85.248834,148.77672
+123,Nemours Children's Hospital,12,28.377819,-81.272561,AdventHealth Orlando,28.57325,-81.36974,23.65749454
+124,HSHS St Vincent Children's Hospital,55,44.501484,-88.012856,Froedtert Memorial Lutheran Hospital,43.040967,-88.024495,162.2775056
+125,The Mount Sinai Kravis Children's Hospital,36,40.79013,-73.95413,Montefiore Medical Center - Henry and Lucy Moses Division,40.880331,-73.880149,11.80144424
+126,University of South Alabama Children's and Women's Hospital,1,30.696112,-88.076904,Tulane University Hospital and Clinic,29.95983,-90.07649,208.896316
+127,UCSF Benioff Children's Hospital San Francisco,6,37.76509,-122.390579,Kaiser Foundation Hospital - Redwood City,37.489193,-122.22337,33.99344713
+128,Akron Children's Hospital,39,41.078928,-81.526529,MetroHealth Medical Center,41.46195,-81.69706,44.87380232
+129,St. Christopher's Hospital for Children,42,40.00684,-75.13117,Thomas Jefferson University Hospitals,39.94982,-75.15867,6.752915657
+130,The Children's Regional Hospital at Cooper,34,39.940807,-75.115746,Hospital of the University of Pennsylvania,39.950567,-75.193751,6.753929428
+131,West Virginia University Children's Hospital,54,39.653323,-79.957894,UPMC Presbyterian,40.44178,-79.9612,87.54721094
+132,UPMC Children's Hospital of Pittsburgh,42,40.46656,-79.95374,Allegheny General Hospital,40.45704,-80.00362,4.360690573
+133,Children's Hospital at Erlanger,47,35.049877,-85.29069,The University of Tennessee Medical Center,35.94016,-83.94502,157.0480256
+134,Baylor Scott White McLane Children's Medical Center,48,31.07479,-97.37541,St. David's Medical Center,30.29068,-97.72674,93.22010832
+135,Helen DeVos Children's Hospital,26,42.970505,-85.66637,Metro Health University of Michigan Health,42.8575,-85.71897,13.26824433
+136,University of New Mexico Children's Hospital,35,35.087482,-106.61643,Tucson Medical Center,32.25224,-110.87984,505.1063262
+137,Palm Beach Children's Hospital,12,26.753117,-80.06258,Welligton Regional Medical Center,26.65152,-80.20451,18.06122271
+138,Cook Children's Medical Center,48,32.7384,-97.341965,John Peter Smith Hospital,32.72712,-97.32696,1.882299656
+139,UF Health Shands Children's Hospital,12,29.640626,-82.342372,North Florida Regional Medical Center,29.66046,-82.41225,7.114008447
+140,ProMedica Toledo Children's Hospital,39,41.67143,-83.594025,University of Michigan Hospital,42.283801,-83.733283,68.99004224
+141,Joe DiMaggio Children's Hospital at Memorial Regional Hospital,12,26.018462,-80.179677,Broward Health Medical Center,26.10207,-80.14087,10.04390795
+142,Nemours Alfred I. duPont Hospital for Children,10,39.780361,-75.554057,Hospital of the University of Pennsylvania,39.950567,-75.193751,36.15967392
+143,The Children's Hospital at Monmouth Medical Center,34,40.29536,-73.983635,NYU Langone Hospital - Brooklyn,40.64662,-74.02058,39.13083854
+144,Renown Children's Hospital,32,39.523884,-119.79471,Kaiser Foundation Hospital - Sacramento,38.602029,-121.39257,172.0386034
+145,Rush University Children's Hospital,17,41.87514,-87.668564,Northwestern Memorial Hospital,41.89495,-87.62223,4.430673864
+146,Hoops Family Children's Hospital,54,38.408978,-82.4282,Ohio State University Wexner Medical Center,39.99493,-83.01756,183.2820617
+147,Women's and Children's Hospital University of Missouri Health Care,29,38.953888,-92.29022,SSM Health DePaul Hospital - St. Louis,38.74999,-90.43413,162.7001685
+148,Umass Memorial Children's Medical Center,25,42.279568,-71.75844,Beth Israel Deaconess Hospital √¢‚Ç¨‚Äú West Campus,42.338036,-71.108993,53.93853205
+149,Carilion Clinic Children's Hospital,51,37.25206,-79.94169,Novant Health Forsyth Medical Center,36.07546,-80.29654,134.36732
+150,Saint Barnabas Children's Center Saint Barnabas Medical Center,34,40.765194,-74.301834,JFK Medical Center,40.55625,-74.35119,23.57508889
+151,Nationwide Children's Hospital,39,39.952354,-82.97852,Mount Carmel East,39.97755,-82.84295,11.91582848
+152,WakeMed Children's Hospital,37,35.786182,-78.589,Duke University Hospital,36.00764,-78.93755,39.9248411
+153,Loma Linda University Children's Hospital,6,34.049915,-117.26114,Pomona Valley Hospital Medical Center,34.07709,-117.75062,45.28721309
+154,Gundersen Lutheran Medical Center,55,43.795197,-91.24693,United Hospital,44.94289,-93.10753,195.5870705
+155,Sanford Children's Hospital,46,43.53305,-96.7451,CentraCare Health - St. Cloud Hospital,45.574495,-94.169613,305.4798901
+156,American Family Children's Hospital,55,43.078274,-89.433365,OSF Healthcare Saint Anthony Medical Center,42.26721,-89.00775,96.61688041
+157,University of California Davis Children's Hospital,6,38.553677,-121.45684,John Muir Medical Center -- Walnut Creek Campus,37.913214,-122.041935,87.62526257
+158,C.S. Mott Children's Hospital,26,42.281645,-83.728319,Henry Ford West Bloomfield Hospital,42.53785,-83.40718,38.84281253
+159,MassGeneral Hospial for Children,25,42.36244,-71.06983,Boston Medical Center Menino Pavilion,42.334834,-71.073608,3.082236301
+160,Novant Health Hemby Children's Hospital,37,35.212986,-80.825485,Novant Health Forsyth Medical Center,36.07546,-80.29654,107.0141465
+161,Dell Children's Medical Center of Central Texas,48,30.30131,-97.70575,Dell Seton Medical Center at The University of Texas,30.276308,-97.733694,3.861270538
+162,St. Luke's Children's Hospital,16,43.612453,-116.19273,Providence Sacred Heart Medical Center and Children's Hospital,47.648887,-117.413419,458.5954005
+163,Cardon's Children's Medical Center,4,33.38917,-111.874664,Banner - University Medical Center Tucson Campus,32.24243,-110.94733,153.9946569
+164,Children's Healthcare of Atlanta,13,33.82971,-84.32975,WellStar Kennestone Regional Medical Center,33.969758,-84.55109,25.69886721
+165,The Children's Hospital at OU Medical Center,40,35.481837,-97.49754,Mercy Hospital Oklahoma City,35.60718,-97.59948,16.69880015
+166,Children's Hospital of San Antonio,48,29.428179,-98.49776,St. Luke's Baptist Hospital,29.51227,-98.57471,11.94099616
+167,Children's of Alabama,1,33.503292,-86.805305,Erlanger Health System,35.04872,-85.29043,221.0081906
+168,Connecticut Children's Medical Center,9,41.75501,-72.682655,UMass Memorial Medical Center √¢‚Ç¨‚Äú University Campus,42.27625,-71.76208,95.73959495
+169,Women and Infants Hospital of Rhode Island,44,41.81026,-71.41101,Brigham & Women's Hospital,42.33611,-71.10748,63.58073219
+170,Sacred Heart Children's Hospital,53,47.648492,-117.411761,Swedish Cherry Hill,47.60687,-122.31022,368.139492
+171,Goryeb Children's Hospital,34,40.788794,-74.465023,St. Joseph's Regional Medical Center,40.902719,-74.165087,28.28144842
+172,Niswonger Children's Hospital,47,36.308666,-82.386536,Fort Sanders Regional Medical Center,35.9572,-83.93717,144.9199282
+173,Norton Children's Hospital,21,38.247967,-85.74881,Baptist Health Lexington,38.01849,-84.51236,111.355051
+174,New York Presbyterian Komansky Chilldren's Hospital,36,40.764214,-73.955414,Brookdale Hospital Medical Center,40.65453,-73.91276,12.7023467
+175,New York Presbyterian Morgan Stanley Children's Hospital,36,40.839447,-73.940956,NYU Langone Hospitals,40.7423,-73.9743,11.14918994
+176,Montana Childrens Medical Center,30,48.215458,-114.3249,St. Luke's Regional Medical Ceter - Boise,43.612338,-116.191892,531.6980342
+177,John R. Oishei Children's Hospital,36,42.90057,-78.867165,UPMC Hamot,42.1339,-80.08728,131.5494545
+178,Mercy Children's Hospital - Springfield,29,37.178185,-93.275826,University of Missouri Hospital and Clinics,38.9380123,-92.3273053,212.3311868
+179,Arnold Palmer Hospital for Children,12,28.523851,-81.379684,Osceola Regional Medical Center,28.29946,-81.4101,25.04633451
+180,Miller Children's & Women's Hospital Long Beach,6,33.80769,-118.18502,Los Alamitos Medical Center,33.80439,-118.06662,10.96926519
+181,Children's Hospital of the Univerisyt of Illinois,17,41.869205,-87.670715,Northwestern Memorial Hospital,41.89495,-87.62223,4.936890015
+182,Children's Hospital at Dartmouth-Hitchcock,33,40.788802,-74.465224,St. Joseph's Regional Medical Center,40.902719,-74.165087,28.29621079
+183,Johns Hopkins All Children's Hospital,12,27.764278,-82.64021,Northside Hospital,27.825606,-82.701635,9.101075281
+184,Dayton Children's Hospital,39,39.774124,-84.169754,Jewish Hospital,39.20648,-84.38152,65.60264489
+185,East Tennessee Children's Hospital,47,35.956547,-83.93782,Mission Hospital,35.58034,-82.549919,132.2611162
+186,Johns Hopkins Children's Center,24,39.295277,-76.59097,Johns Hopkins Bayview Medical Center,39.28978,-76.54689,3.851378268
+187,Stony Brook Children's Hospital,36,40.91326,-73.116516,Yale New Haven Hospital (York St. Campus),41.30429,-72.93515,46.02079815
+188,Sutter Children's Center,6,38.57042,-121.47027,John Muir Medical Center -- Walnut Creek Campus,37.913214,-122.041935,88.46604992
+189,Kaiser Foundation Hospital - Roseville Women's and Children's Service,6,38.74825,-121.24763,John Muir Medical Center -- Walnut Creek Campus,37.913214,-122.041935,115.8226217
+190,Mercy Children's Hospital - St. Louis,29,38.644516,-90.44344,SSM Health St. Clare Hospital - Fenton,38.52574,-90.4741,13.45293933
+191,St. Louis Children's Hospital,29,38.637283,-90.265182,Mercy Hospital St. Louis,38.64436,-90.4466,15.8142567
+192,MercyOne Children's Hospital - Des Moines,19,41.597763,-93.62566,CHI Health Immanuel,41.32185,-96.01987,202.3575817
+193,James and Connie Maynard Children's Hospital at Vidant Medical Center,37,35.6058,-77.40124,Rex Hospital,35.818506,-78.704281,120.2500892
+194,University of Iowa Stead Family Children's Hospital,19,41.65727,-91.54992,OSF Healthcare Saint Anthony Medical Center,42.26721,-89.00775,221.3562195
+195,Betty H Cameron Womens Childrens Hospital,37,34.20638,-77.92425,Vidant Medical Center,35.60712,-77.40456,162.4918652
+196,Cincinnati Children's Hospital Medical Center,39,39.141247,-84.500374,Jewish Hospital,39.20648,-84.38152,12.56718169
+197,CoxHealth,29,37.143776,-93.27797,University of Missouri Hospital and Clinics,38.9380123,-92.3273053,215.9294934
+198,Cleveland Clinic Children's,39,41.50342,-81.6215,MetroHealth Medical Center,41.46195,-81.69706,7.81265846
+199,The Barbara Bush Children's Hospital at Maine Medical Center,23,43.652256,-70.27507,Mass General Hospital,42.36278,-71.06867,157.1840797
+200,Wake Forest Baptist Health - Brenner Children's Hospital,37,36.090751,-80.270156,Moses H. Cone Memorial Hospital,36.091918,-79.785944,43.60808941
+201,St. Mary's Children's Hospital,27,46.7929,-92.096344,Regions Hospital,44.95594,-93.09423,218.3755155

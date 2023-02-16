@@ -1,0 +1,3 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_2,DISTANCE_ROAD,DISTANCE_TIME
+0,43,43,University of Maryland Children's Hospital,24,39.288456,-76.62366,The Johns Hopkins Hospital,39.2973,-76.5933,2.79709828,3195.975,34
+1,186,186,Johns Hopkins Children's Center,24,39.295277,-76.59097,University of Maryland Medical Center,39.28816,-76.6247,3.015240318,3764.995999999999,34

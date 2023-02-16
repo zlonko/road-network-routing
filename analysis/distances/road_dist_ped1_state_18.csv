@@ -1,0 +1,4 @@
+,index,GEOID,Hospital,State,ORIG_LAT,ORIG_LONG,ThrombCenter,DEST_LAT,DEST_LONG,AERIAL_1,DISTANCE_ROAD,DISTANCE_TIME
+0,11,11,Beacon Children's Hospital,18,41.684013,-86.25052,Memorial Hospital of South Bend,41.683581,-86.252682,0.186292342,609.317,6
+1,19,19,Riley Hospital for Children at Indiana University Health,18,39.77726,-86.18137,Indiana University Health Methodist Hospital,39.789885,-86.16374300000001,2.060331702,2757.77,19
+2,122,122,Peyton Manning Children's Hospital at St. Vincent,18,39.91203,-86.19653000000001,St. Vincent Hospital and Health Care Services,39.909727000000004,-86.195927,0.26085507,417.99,2
